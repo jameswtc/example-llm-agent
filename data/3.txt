@@ -1,0 +1,69 @@
+=David / LIBS - 4/1/2025
+=# Process Automation Interview
+
+## Client: David / LIBS
+## Date: 4/1/2025
+
+## Process Summary
+
+### Process 1: Vertragsmanagement mit Fristenüberwachung
+
+**Description:** Zentrale Ablage aller Verträge, automatische Fristenerkennung, digitale Erinnerungen
+
+**Inefficiencies:**
+- Unstrukturierte Ablage
+- Manuelle Fristenkontrolle
+- Beinahe-Fristversäumnisse
+
+**Automation Potential:** High
+**Business Impact:** Medium
+**Recommended Approach:** Einsatz eines Vertragsmanagement-Tools mit Fristenworkflow und zentralem Archiv
+
+### Process 2: Digitale Rechnungsverarbeitung
+
+**Description:** OCR-Auslesung von Rechnungen, automatischer Freigabeprozess, Buchung und Archivierung
+
+**Inefficiencies:**
+- Manuelle Prüfung und Freigabe
+- Verzögerungen bei Zahlungen
+- Skontoverluste möglich
+
+**Automation Potential:** High
+**Business Impact:** High
+**Recommended Approach:** Einführung eines digitalen Kreditorenworkflows mit OCR und Schnittstelle zur Buchhaltung
+
+### Process 3: Bankfile-Upload bei QR-Rechnungen
+
+**Description:** Automatisierte Erzeugung und Upload von Zahlungsdateien inkl. QR-Kompatibilität
+
+**Inefficiencies:**
+- Hoher manueller Aufwand pro Upload
+- Fehleranfälligkeit
+- Keine native QR-Unterstützung in Dynamics
+
+**Automation Potential:** High
+**Business Impact:** High
+**Recommended Approach:** Anbindung eines Zahlungsdienstleisters oder Custom-Schnittstelle zur automatisierten Übergabe
+
+## Interview Transcript
+
+David von LIBS hat im Gespräch drei relevante Automatisierungs-Use-Cases identifiziert:
+
+1. Vertragsmanagement:
+- Verträge sind unstrukturiert abgelegt, Fristenüberwachung erfolgt manuell durch die Finanzabteilung.
+- Beinahe wurde eine Kündigungsfrist versäumt.
+- Potenzial erkannt für automatische Fristenerkennung, Erinnerungen und zentrale digitale Ablage.
+
+2. Rechnungsverarbeitung:
+- Ca. 100 Eingangsrechnungen pro Monat
+- Aktuell vollständig manuelle Prüfung, Freigabe und Verbuchung
+- Zeitverzögerungen durch Freigabeprozesse
+- Hohe manuelle Belastung, Skontoverluste möglich
+
+3. QR-Rechnungen & Bankfiles in MS Dynamics:
+- Zwei monatliche Uploads von Bankfiles nötig
+- Jeweils bis zu 4 Stunden Aufwand pro Upload
+- Fehleranfälligkeit sehr hoch (mehrfaches Anpassen nötig)
+- MS Dynamics unterstützt QR-Rechnungen nicht nativ
+
+David ist in der Unternehmensentwicklung tätig und möchte gezielt Prozesse optimieren.

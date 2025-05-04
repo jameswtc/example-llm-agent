@@ -1,0 +1,60 @@
+=Beat Scheidegger - 4/6/2025
+=# Process Automation Interview
+
+## Client: Beat Scheidegger
+## Date: 4/6/2025
+
+## Process Summary
+
+### Process 1: Produktdaten-Anreicherung
+
+**Description:** Manuelle Recherche und Einpflege von Produktinformationen für hunderte Produkte pro Monat, teils rechtlich sensibel.
+
+**Inefficiencies:**
+- Hoher Zeitaufwand durch manuelle Recherche
+- Fehlende Automatisierung beim Einpflegen
+- Rechtlich sensible Formulierungen erfordern Prüfung
+
+**Automation Potential:** Medium
+**Business Impact:** High
+**Recommended Approach:** Teilautomatisierung durch KI-unterstützte Beschreibungsvorschläge, Strukturierung über Templates und Validierungsworkflows
+
+### Process 2: Content-Erstellung für Blog & Social Media
+
+**Description:** Erstellung von Blogartikeln und Social Media Posts, aktuell sehr zeitintensiv durch manuellen Kreativprozess.
+
+**Inefficiencies:**
+- Hoher personeller Aufwand für kreative Inhalte
+- Fehlende Automatisierung bei Planung & Veröffentlichung
+
+**Automation Potential:** High
+**Business Impact:** High
+**Recommended Approach:** Einsatz von KI-gestützten Content-Generatoren und Automatisierungstools zur Planung, Erstellung und Veröffentlichung
+
+### Process 3: Reporting & Bestellanalysen
+
+**Description:** Auswertungen aus mehreren Systemen zu Bestellungen, Umsätzen etc. werden manuell erstellt.
+
+**Inefficiencies:**
+- Zeitaufwendiges Zusammenführen von Daten
+- Fehlende Automatisierung bei Erstellung & Versand
+
+**Automation Potential:** High
+**Business Impact:** Medium
+**Recommended Approach:** Aufbau automatisierter Dashboards mit Tools wie Looker Studio oder Power BI
+
+### Process 4: Performance Marketing Analyse & Steuerung
+
+**Description:** Google Ads, Analytics & Co werden manuell gesteuert und ausgewertet.
+
+**Inefficiencies:**
+- Manuelle Steuerung und Analyse
+- Fehlende KI-gestützte Optimierung
+
+**Automation Potential:** Medium
+**Business Impact:** High
+**Recommended Approach:** Einsatz von Automatisierungstools zur Kampagnensteuerung, Bid-Optimierung und Reporting
+
+## Interview Transcript
+
+Beat Scheidegger von der Wellvida AG (Online-Drogerie, 4 Mitarbeitende, Geschäftsführer) berichtet über Herausforderungen in der Produktinformationsanreicherung (Recherche, rechtliche Sensibilität) und im Content-Marketing (Blogartikel, Social Media Content). Beide Bereiche verursachen hohen Aufwand: Die Produktanreicherung kostet aktuell rund 1’500 CHF/Monat (extern ausgelagert), die Content-Erstellung nimmt 1,5 bis 2 Tage pro Woche in Anspruch (durch eine 60%-Marketingkraft und einen Plattform-Manager). Weitere manuelle Prozesse betreffen Reportings und Bestellanalysen sowie Performance Marketing (Google Ads/Analytics), die aktuell noch nicht automatisiert sind. Bereiche wie Finanzen und Logistik sind hingegen vollständig automatisiert.

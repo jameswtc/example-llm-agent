@@ -1,0 +1,80 @@
+=Ausbildungsunternehmen mit 100 Festangestellten und 200 Lernenden - 3/31/2025
+=# Process Automation Interview
+
+## Client: Ausbildungsunternehmen mit 100 Festangestellten und 200 Lernenden
+## Date: 3/31/2025
+
+## Process Summary
+
+### Process 1: Digitale Rechnungsverarbeitung
+
+**Description:** Eingangsrechnungen werden aktuell manuell geprüft, gebucht und weitergeleitet.
+
+**Inefficiencies:**
+- Hoher Zeitaufwand
+- Keine Nutzung von Skonti
+- Fehlende Transparenz im Freigabeprozess
+
+**Automation Potential:** High
+**Business Impact:** High
+**Recommended Approach:** OCR-gestützte Verarbeitung, digitaler Freigabeworkflow, Anbindung ans E-Banking und DMS
+
+### Process 2: Automatisiertes Mahnwesen
+
+**Description:** Forderungen werden manuell überwacht, Mahnungen einzeln erstellt und versendet.
+
+**Inefficiencies:**
+- Manueller Aufwand
+- Verzögerte Mahnungen
+- Potenzielle Zahlungsausfälle
+
+**Automation Potential:** High
+**Business Impact:** Medium
+**Recommended Approach:** Automatischer Abgleich offener Posten, regelbasierter Mahnversand, Eskalationsmanagement
+
+### Process 3: Kontaktdaten-Synchronisierung
+
+**Description:** Kontaktdaten werden mehrfach manuell in verschiedene Systeme eingetragen.
+
+**Inefficiencies:**
+- Doppelerfassungen
+- Fehleranfälligkeit
+- Hoher Abstimmungsaufwand
+
+**Automation Potential:** Medium
+**Business Impact:** Medium
+**Recommended Approach:** Synchronisationslösung mit Middleware oder API-Integration zwischen den Systemen
+
+### Process 4: Automatisiertes Bewerbermanagement
+
+**Description:** Eingehende Bewerbungen werden manuell verarbeitet, Kommunikation und Terminfindung erfolgen per Mail.
+
+**Inefficiencies:**
+- Hoher manueller Aufwand
+- Verzögerte Rückmeldungen
+- Fehlende Übersicht
+
+**Automation Potential:** High
+**Business Impact:** High
+**Recommended Approach:** Einsatz eines Bewerbermanagementsystems mit CV-Parsing, automatisierter Kommunikation und Terminplanung
+
+### Process 5: SVA-Anmeldung
+
+**Description:** SVA-Anmeldungen werden manuell durchgeführt, oft geballt zu Lehrbeginn.
+
+**Inefficiencies:**
+- Zeitintensive Doppeleingaben
+- Fristversäumnisrisiko
+- Stress bei Lernendenstarts
+
+**Automation Potential:** High
+**Business Impact:** High
+**Recommended Approach:** Automatische Formularbefüllung aus HR-Daten und digitaler Versand an die Ausgleichskasse
+
+## Interview Transcript
+
+Das Unternehmen ist im Bildungsbereich tätig und beschäftigt rund 100 Festangestellte sowie etwa 200 Lernende. Die priorisierten Bereiche mit Automatisierungspotenzial sind Finanzprozesse, administrative Aufgaben und HR. Relevante Use Cases, die als interessant identifiziert wurden, sind: digitale Rechnungsverarbeitung, automatisiertes Mahnwesen, Synchronisierung von Kontaktdaten zwischen Systemen, automatisiertes Bewerbermanagement und SVA-Anmeldung. Die wichtigsten Kennzahlen:
+- Rechnungsverarbeitung: 50 Rechnungen/Monat, kein Skonti-Management
+- Mahnwesen: ca. 5 Mahnungen/Monat, 15 Min Aufwand pro Woche, offene Forderungen ca. 700’000 CHF
+- Bewerbermanagement: ca. 20 Bewerbungen/Monat, Prozessdauer ca. 4 Tage
+- SVA-Anmeldung: ca. 300 Anmeldungen/Jahr, jeweils ca. 15 Min Aufwand, oft unter Zeitdruck bei Lernendenstarts

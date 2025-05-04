@@ -1,0 +1,10 @@
+{
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter",
+        "editor.formatOnSave": true
+    },
+    "python.analysis.indexing": true,
+    "python.analysis.autoImportCompletions": true,
+    "python-envs.pythonProjects": [],
+    
+}
